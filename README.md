@@ -1,4 +1,4 @@
-# frc-robot2023
+# frc-robot2023 :space_invader:
 
 ## :round_pushpin: Setup Server 
 - Download FRC driver station: version 23.0
